@@ -1,0 +1,6 @@
+﻿  DynamicAllocation.c
+c:\users\manibala\documents\visual studio 2015\projects\dynamicallocation\dynamicallocation\dynamicallocation.c(13): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\manibala\documents\visual studio 2015\projects\dynamicallocation\dynamicallocation\dynamicallocation.c(13): warning C4047: '=': 'point *' differs in levels of indirection from 'int'
+c:\users\manibala\documents\visual studio 2015\projects\dynamicallocation\dynamicallocation\dynamicallocation.c(19): warning C4013: 'free' undefined; assuming extern returning int
+  DynamicAllocation.vcxproj -> c:\users\manibala\documents\visual studio 2015\Projects\DynamicAllocation\Debug\DynamicAllocation.exe
+  DynamicAllocation.vcxproj -> c:\users\manibala\documents\visual studio 2015\Projects\DynamicAllocation\Debug\DynamicAllocation.pdb (Partial PDB)
